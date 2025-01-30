@@ -10,3 +10,7 @@ Here are some of the apps developed on Solana
 
 ## Benching and Testing Agave Client
 [Testing Replay Stage](https://github.com/farawaystar/solana_replay_stage) A demonstration of how to extract and test specific functions or code snippets from the Anza Agave repository without building the entire project. This approach allows for quick testing and experimentation with individual components with minimum dependencies to deal with
+
+## Simulation Solana transactions - Simple P2P Network for Message Exchange using rust-libp2p
+[p2p-message-exchange](https://github.com/farawaystar/p2p-message-exchange) An implementation of a private, decentralized topic subscriber/chat network using libp2p (the same tech behind IPFS). Use this to spin multiple nodes, and make the nodes subscribe to a chosen topic, and listen & exchange info between them. See it as a secure group chat, or a blockchain transaction exchanger or simply a network diagnostics tool! Here’s the vibe.
+
