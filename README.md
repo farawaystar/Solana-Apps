@@ -2,6 +2,11 @@
 
 some of my apps on Solana (newest-oldest)
 
+### 05. Monitor Agave Repo - Cron job to monitor commits on Agave Client (ongoing),
+[monitor-agave](https://github.com/farawaystar/agave-monitor)A tool to Monitor and process changes to Cargo.toml files in external repositories. This example will mature into monitoring Solana agave validator client - as a start.
+
+---
+
 ### 04. Simulation Solana transactions - Simple P2P Network for Message Exchange using rust-libp2p
 
 [p2p-message-exchange](https://github.com/farawaystar/p2p-message-exchange) An implementation of a private, decentralized topic subscriber/chat network using libp2p (the same tech behind IPFS). Use this to spin multiple nodes, and make the nodes subscribe to a chosen topic, and listen & exchange info between them. See it as a secure group chat, or a blockchain transaction exchanger or simply a network diagnostics tool! Here’s the vibe.
