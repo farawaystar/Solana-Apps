@@ -3,7 +3,7 @@
 some of my apps on Solana (newest-oldest)
 
 ### 06. Unsafe Rust Guide - a practical guide to understanding unsafe rust coding
-[unsafe-rust-guide](https://github.com/farawaystar/unsafe_rust_guide) : a practical guide to understanding unsafe rust coding, explained with scenarios and examples
+[unsafe-rust-guide](https://github.com/farawaystar/unsafe_rust_guide) : explained with scenarios and examples
 
 ---
 
