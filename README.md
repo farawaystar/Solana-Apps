@@ -2,6 +2,11 @@
 
 some of my apps on Solana (newest-oldest)
 
+### 06. Monitor Agave Repo - Cron job to monitor commits on Agave Client (ongoing),
+[rust-unsafe-guide](https://github.com/farawaystar/unsafe_rust_guide) : a practical guide to understanding unsafe rust coding, explained with scenarios and examples
+
+---
+
 ### 05. Monitor Agave Repo - Cron job to monitor commits on Agave Client (ongoing),
 [monitor-agave](https://github.com/farawaystar/agave-monitor) : a lib of tools designed for customizing Solana Agave client
 
